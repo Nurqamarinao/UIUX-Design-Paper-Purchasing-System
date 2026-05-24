@@ -5,7 +5,7 @@ This repository showcases the user interface (UI/UX) design and usability resear
 ---
 
 ## 🚀 Core Features of the System
-The sections showcased below represent the **core parts of the system**. They cover the essential user flows and the usability validation conducted during the design process.
+The sections showcased below represent the **core parts of the system**. It cover the essential user flows and the usability validation conducted during the design process.
 
 💡 *To explore the complete, full-scale interactive canvas and interactive components, please click the link below:*
 
